@@ -5,6 +5,4 @@ Main Types of Feature Engineering:
 3.Removal NaN values
 4.Error Detection and Rectification
 5.Encoding
-6.Data Separation
-7.Imbalance
-8.Data splitting
+
